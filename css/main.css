@@ -1518,6 +1518,7 @@ hr {
 .timeline-photo {
 	margin-left: 50px; 
 	max-height: 70px;
+	max-width: 250px;
 }
 
 
